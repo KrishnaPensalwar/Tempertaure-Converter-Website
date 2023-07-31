@@ -1,0 +1,45 @@
+*{
+    font-size: 110%;
+    /* text-align: center; */
+    line-height: 35px;
+    margin-left: 50px;
+    
+}
+
+.container{
+    background-color:aqua ;
+    max-width: 700px;
+    margin-left: 140px;
+    padding-top: 40px;
+    border-radius: 30px;
+   
+}
+label input{
+    text-align: center;
+   
+    
+}
+.demo{
+    text-align: center;
+    background-color: red;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 180% ;
+}
+
+.img1 img{
+    position: absolute;
+    top:10px;
+    right: 10px;
+}
+button{
+    
+   
+    margin-left: 449px;
+    
+    margin-top: 46px;
+
+}
